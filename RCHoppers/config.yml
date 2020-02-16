@@ -1,0 +1,4 @@
+##This config currently has only one use: the prefix for all RCHopper plugin messages
+
+
+Prefix: "§3[§6RCHoppers§3]"

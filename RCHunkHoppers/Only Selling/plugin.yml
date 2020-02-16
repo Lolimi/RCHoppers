@@ -1,0 +1,21 @@
+name: RCHoppersPluginChunkHopper
+version: 0.1-SNAPSHOT
+author: Lolimi
+
+depend: [RCHoppers, Vault]
+softdepend: [ShopGUIPlus]
+loadbefore: [RCHoppers, ShopGUIPlus, Vault]
+
+main: io.github.lolimi.rchoppers.plugins.main.Main
+
+api-version: 1.13
+
+commands:
+   gch:
+   test: 
+   
+   
+permissions:
+   ChunkHopper.Admin:
+      description: for gch and gu commands
+      default: op

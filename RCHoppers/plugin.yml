@@ -1,0 +1,7 @@
+name: RCHoppers
+version: 0.1-SNAPSHOT
+author: Lolimi
+
+main: io.github.lolimi.rchoppers.main.Main
+
+api-version: 1.13
