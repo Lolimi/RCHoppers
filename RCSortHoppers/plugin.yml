@@ -1,0 +1,13 @@
+name: RCHoppersPluginSortHopper
+version: 1.0
+description: A plugin which adds a hopper that can sort items.
+author: Lolimi
+
+main: io.github.lolimi.sorthopper.main.Main
+
+api-version: 1.13
+
+depend: [RCHoppers]
+
+commands:
+   gsh: 
